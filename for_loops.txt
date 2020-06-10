@@ -2,3 +2,4 @@ for(int i: arr){
     print(i);
 }
 print("for loop is ended")
+print("updated for loop")
