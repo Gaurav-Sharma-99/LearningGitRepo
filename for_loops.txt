@@ -1,3 +1,4 @@
 for(int i: arr){
     print(i);
 }
+print("for loop is ended")
